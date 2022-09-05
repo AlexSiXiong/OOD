@@ -1,7 +1,5 @@
 import card.Cards;
 
-import java.util.Arrays;
-
 abstract public class Person {
 
     Person(String name) {
